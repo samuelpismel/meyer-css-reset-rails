@@ -1,4 +1,1 @@
-module MeyerCssResetRails
-  class Engine < ::Rails::Engine
-  end
-end
+require 'meyer-css-reset-rails/engine'
