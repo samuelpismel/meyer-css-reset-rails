@@ -1,0 +1,2 @@
+module MeyerCssResetRails
+end
