@@ -7,11 +7,11 @@ require "meyer-css-reset-rails/version"
 Gem::Specification.new do |s|
   s.name        = "meyer-css-reset-rails"
   s.version     = MeyerCssResetRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of MeyerCssResetRails."
-  s.description = "TODO: Description of MeyerCssResetRails."
+  s.authors     = ["Samuel Gavassi Pismel"]
+  s.email       = ["contact@samuelgavassi.com"]
+  s.homepage    = "http://www.samuelgavassi.com"
+  s.summary     = "Eric Meyer CSS Reset for Rails Asset Pipeline"
+  s.description = "An easy way to adds Eric Meyer CSS Reset in rails asset pipeline."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]

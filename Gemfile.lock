@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    meyer-css-reset-rails (0.0.1)
+    meyer-css-reset-rails (1.0.0)
       rails (~> 3.2.12)
 
 GEM
