@@ -9,7 +9,7 @@ to download the [css file](http://meyerweb.com/eric/tools/css/reset/reset.css) m
 Add in your Gemfile
 
 ```ruby
-  gem 'sextant'
+  gem 'meyer-css-reset-rails'
 ```
 
 ## Require
